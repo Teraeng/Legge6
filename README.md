@@ -12,8 +12,8 @@ Il sistema di irrigazione “BLUETENTACLES IRRIGATION SYSTEM” nasce da un prog
 \1) problematica della scarsità della risorsa idrica in agricoltura derivante dai cambiamenti climatici, fenomeno globale che interessa anche il territorio del Trentino; 
 
 \2) esigenza espressa dai Consorzi di Miglioramento Fondiario (CMF) di ottimizzare la gestione degli impianti irrigui a goccia esistenti senza prevedere la sostituzione integrale dell’impianto, ma intervenendo sulla configurazione della schedulazione irrigua. 
-<p align="right">
-  <img src="immagini/meteo.png" width="600" title="Confronto modello WRF GSF">
+<p align="center">
+  <img src="immagini/meteo.png" width="800" title="Confronto modello WRF GSF">
    
 </p>
 Ad oggi, infatti, è prevista una turnazione irrigua oraria che avviene grazie a sistemi di automazione che permettono l’apertura in automatico di idrovalvole di settore senza bisogno di intervento manuale da parte dell’operatore. La turnazione irrigua, decisa dal CMF ad inizio della stagione irrigua, viene però attuata sempre in maniera automatica senza considerare le condizioni meteo-climatiche e la reale necessità di irrigare.
@@ -31,8 +31,12 @@ In estrema sintesi il progetto si è posto i seguenti obiettivi realizzativi:
 
 Gli obiettivi raggiunti dai gruppi di ricerca dell’Università di Trento in collaborazione con il personale di Tera engineering sono:
 
-1. ![](immagini/satellitari.png)Il sistema quantitativo di previsione meteorologica focalizzato sul territorio della Provincia di Trento è operativo (meteo.unitn.it) e fornisce due volte al giorno, al mattino e alla sera, previsioni per le 72 ore successive dei parametri utili per l’ottimizzazione delle risorse irrigue per le colture.	
-1. ![](immagini/mappa.png)È stata condotta un’analisi sul potenziale risparmio idrico ottenibile grazie alla pianificazione dell’irrigazione agricola basata sulle condizioni meteorologiche pregresse e attuali. Lo studio è stato realizzato prendendo in considerazione il territorio del Consorzio di Miglioramento Fondiario di Terlago. 
+1.Il sistema quantitativo di previsione meteorologica focalizzato sul territorio della Provincia di Trento è operativo (meteo.unitn.it) e fornisce due volte al giorno, al mattino e alla sera, previsioni per le 72 ore successive dei parametri utili per l’ottimizzazione delle risorse irrigue per le colture.
+<p align="center">
+  <img src="immagini/satellitari.png" width="800" title="Confronto modello WRF GSF">
+   
+</p>
+1.È stata condotta un’analisi sul potenziale risparmio idrico ottenibile grazie alla pianificazione dell’irrigazione agricola basata sulle condizioni meteorologiche pregresse e attuali. Lo studio è stato realizzato prendendo in considerazione il territorio del Consorzio di Miglioramento Fondiario di Terlago. 
 1. È stata condotta un’analisi preliminare sulle metodologie di elaborazione dei dati satellitari utili per la stima delle variabili di interesse per l’ottimizzazione dell’irrigazione.
 
 
@@ -42,10 +46,13 @@ Gli obiettivi raggiunti dai gruppi di ricerca dell’Università di Trento in co
 1. Adattamento e sviluppo della tecnologia hardware;
 1. Individuazione delle aree pilota e installazione di sensori al suolo;
 1. Sperimentazione della tecnologia.
-
+<p align="center">
+  <img src="immagini/mappa.png" width="800" title="Confronto modello WRF GSF">
+   
+</p>
 Gli obiettivi raggiunti sono:
 
-1. ![](Aspose.Words.e05cab09-5564-4b11-b0e4-c6a1651e8c8d.004.png)Adattamento software per il passaggio da una architettura basata su server locale, da installare e configurare in loco per ogni cliente, ad una architettura con server unico su cloud in grado di comunicare con i dispositivi LoRaWAN in campo e accessibile da remoto in modo sicuro e privato dai diversi clienti attraverso l’interfaccia grafica (Web app “SmartWat”);
+1. Adattamento software per il passaggio da una architettura basata su server locale, da installare e configurare in loco per ogni cliente, ad una architettura con server unico su cloud in grado di comunicare con i dispositivi LoRaWAN in campo e accessibile da remoto in modo sicuro e privato dai diversi clienti attraverso l’interfaccia grafica (Web app “SmartWat”);
 1. Adattamento della tecnologia hardware necessaria al controllo e gestione degli impianti irrigui con metodologie di “smart irrigation” (soluzione tecnologica “SmartWat”);
 1. Individuazione particelle pilota, campionatura del suolo (caratterizzazione pedologica) e allestimento sperimentale (stazioni meteo, sensori di umidità del suolo, dispositivi hardware del sistema di comunicazione) presso le particelle pilota dello scenario Base di sviluppo del DSS (Trentino);
 1. Confronto prestazionale tra tipologie differenti di sensori di umidità del suolo;
