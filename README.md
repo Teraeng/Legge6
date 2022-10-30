@@ -1,8 +1,5 @@
 
-| :-: | :-: | :-: |
-
-
-**Bluetentacles Irrigation System**
+                                                  **Bluetentacles Irrigation System**
 
 ` `**Retrofit di Impianti di Automazione per l’Irrigazione con l’Integrazione di Dati Climatici e Ambientali per la Schedulazione Efficiente dell’Irrigazione**
 
