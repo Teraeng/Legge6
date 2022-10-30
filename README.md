@@ -1,13 +1,11 @@
 <p align="center">
   <img src="immagini/logo.jpeg" width="600" title="logo Tera">
 </p>
-       # Annunci / Status del progetto
 
-# Titolo
 
-> Sottotitolo / Slogan / Descrizione breve                                        # Bluetentacles Irrigation System
+# Bluetentacles Irrigation System
 
-` `**Retrofit di Impianti di Automazione per l’Irrigazione con l’Integrazione di Dati Climatici e Ambientali per la Schedulazione Efficiente dell’Irrigazione**
+> Retrofit di Impianti di Automazione per l’Irrigazione con l’Integrazione di Dati Climatici e Ambientali per la Schedulazione Efficiente dell’Irrigazione              
 
 Il sistema di irrigazione “BLUETENTACLES IRRIGATION SYSTEM” nasce da un progetto di ricerca sviluppato dalla società Tera Engineering srl, in partenariato con il Dipartimento Civile ed Ambientale dell’Università di Trento (DICAM) e la Fondazione Edmund Mach di San Michele All’Adige di Trento, con l’obiettivo risolvere due principali tipologie di problematiche
 
