@@ -30,12 +30,8 @@ In estrema sintesi il progetto si è posto i seguenti obiettivi realizzativi:
 Gli obiettivi raggiunti dai gruppi di ricerca dell’Università di Trento in collaborazione con il personale di Tera engineering sono:
 
 1. ![](Aspose.Words.e05cab09-5564-4b11-b0e4-c6a1651e8c8d.002.png)Il sistema quantitativo di previsione meteorologica focalizzato sul territorio della Provincia di Trento è operativo (meteo.unitn.it) e fornisce due volte al giorno, al mattino e alla sera, previsioni per le 72 ore successive dei parametri utili per l’ottimizzazione delle risorse irrigue per le colture.	
-1. ![](Aspose.Words.e05cab09-5564-4b11-b0e4-c6a1651e8c8d.003.png)È stata condotta un’analisi sul potenziale risparmio idrico ottenibile grazie alla pianificazione dell’irrigazione agricola basata sulle condizioni meteorologiche pregresse e attuali. Lo studio è stato realizzato prendendo in considerazione il territorio del Consorzio di Miglioramento Fondiario di Terlago. 
+1. ![](immagini/mappa.png)È stata condotta un’analisi sul potenziale risparmio idrico ottenibile grazie alla pianificazione dell’irrigazione agricola basata sulle condizioni meteorologiche pregresse e attuali. Lo studio è stato realizzato prendendo in considerazione il territorio del Consorzio di Miglioramento Fondiario di Terlago. 
 1. È stata condotta un’analisi preliminare sulle metodologie di elaborazione dei dati satellitari utili per la stima delle variabili di interesse per l’ottimizzazione dell’irrigazione.
-
-
-
-
 
 
 ***Realizzazione della tecnologia e sperimentazione***
