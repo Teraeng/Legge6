@@ -1,4 +1,7 @@
-
+<p align="center">
+  <img src="immagini/logo.jpg" width="350" title="hover text">
+  <img src="your_relative_path_here_number_2_large_name" width="350" alt="accessibility text">
+</p>
                                                   #Bluetentacles Irrigation System
 
 ` `**Retrofit di Impianti di Automazione per l’Irrigazione con l’Integrazione di Dati Climatici e Ambientali per la Schedulazione Efficiente dell’Irrigazione**
