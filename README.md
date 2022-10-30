@@ -1,6 +1,5 @@
 <p align="center">
   <img src="immagini/logo.jpeg" width="350" title="hover text">
-  <img src="your_relative_path_here_number_2_large_name" width="350" alt="accessibility text">
 </p>
                                                   #Bluetentacles Irrigation System
 
@@ -11,7 +10,9 @@ Il sistema di irrigazione “BLUETENTACLES IRRIGATION SYSTEM” nasce da un prog
 \1) problematica della scarsità della risorsa idrica in agricoltura derivante dai cambiamenti climatici, fenomeno globale che interessa anche il territorio del Trentino; 
 
 \2) esigenza espressa dai Consorzi di Miglioramento Fondiario (CMF) di ottimizzare la gestione degli impianti irrigui a goccia esistenti senza prevedere la sostituzione integrale dell’impianto, ma intervenendo sulla configurazione della schedulazione irrigua. 
-
+<p align="center">
+  <img src="immagini/meteo.png" width="350" title="hover text">
+</p>
 Ad oggi, infatti, è prevista una turnazione irrigua oraria che avviene grazie a sistemi di automazione che permettono l’apertura in automatico di idrovalvole di settore senza bisogno di intervento manuale da parte dell’operatore. La turnazione irrigua, decisa dal CMF ad inizio della stagione irrigua, viene però attuata sempre in maniera automatica senza considerare le condizioni meteo-climatiche e la reale necessità di irrigare.
 
 Lo sviluppo della soluzione tecnologica “SmartWat”, acronimo di “Smart Water irrigation system”, ha consentito di mettere a punto un prodotto hardware/software in grado di rispondere a queste necessità. Lo strumento consente infatti di:
