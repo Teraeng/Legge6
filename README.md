@@ -1,7 +1,11 @@
 <p align="center">
   <img src="immagini/logo.jpeg" width="600" title="logo Tera">
 </p>
-                                               # Bluetentacles Irrigation System
+       # Annunci / Status del progetto
+
+# Titolo
+
+> Sottotitolo / Slogan / Descrizione breve                                        # Bluetentacles Irrigation System
 
 ` `**Retrofit di Impianti di Automazione per l’Irrigazione con l’Integrazione di Dati Climatici e Ambientali per la Schedulazione Efficiente dell’Irrigazione**
 
