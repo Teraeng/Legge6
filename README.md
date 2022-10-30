@@ -10,8 +10,8 @@ Il sistema di irrigazione “BLUETENTACLES IRRIGATION SYSTEM” nasce da un prog
 \1) problematica della scarsità della risorsa idrica in agricoltura derivante dai cambiamenti climatici, fenomeno globale che interessa anche il territorio del Trentino; 
 
 \2) esigenza espressa dai Consorzi di Miglioramento Fondiario (CMF) di ottimizzare la gestione degli impianti irrigui a goccia esistenti senza prevedere la sostituzione integrale dell’impianto, ma intervenendo sulla configurazione della schedulazione irrigua. 
-<p align="center">
-  <img src="immagini/meteo.png" width="500" title="Grafico temperatura">
+<p align="right">
+  <img src="immagini/meteo.png" width="600" title="Confronto modello WRF GSF">
    
 </p>
 Ad oggi, infatti, è prevista una turnazione irrigua oraria che avviene grazie a sistemi di automazione che permettono l’apertura in automatico di idrovalvole di settore senza bisogno di intervento manuale da parte dell’operatore. La turnazione irrigua, decisa dal CMF ad inizio della stagione irrigua, viene però attuata sempre in maniera automatica senza considerare le condizioni meteo-climatiche e la reale necessità di irrigare.
@@ -29,8 +29,8 @@ In estrema sintesi il progetto si è posto i seguenti obiettivi realizzativi:
 
 Gli obiettivi raggiunti dai gruppi di ricerca dell’Università di Trento in collaborazione con il personale di Tera engineering sono:
 
-1. ![]satellitari.png)Il sistema quantitativo di previsione meteorologica focalizzato sul territorio della Provincia di Trento è operativo (meteo.unitn.it) e fornisce due volte al giorno, al mattino e alla sera, previsioni per le 72 ore successive dei parametri utili per l’ottimizzazione delle risorse irrigue per le colture.	
-1. ![|destra](immagini/mappa.png)È stata condotta un’analisi sul potenziale risparmio idrico ottenibile grazie alla pianificazione dell’irrigazione agricola basata sulle condizioni meteorologiche pregresse e attuali. Lo studio è stato realizzato prendendo in considerazione il territorio del Consorzio di Miglioramento Fondiario di Terlago. 
+1. ![](immagini/satellitari.png)Il sistema quantitativo di previsione meteorologica focalizzato sul territorio della Provincia di Trento è operativo (meteo.unitn.it) e fornisce due volte al giorno, al mattino e alla sera, previsioni per le 72 ore successive dei parametri utili per l’ottimizzazione delle risorse irrigue per le colture.	
+1. ![](immagini/mappa.png)È stata condotta un’analisi sul potenziale risparmio idrico ottenibile grazie alla pianificazione dell’irrigazione agricola basata sulle condizioni meteorologiche pregresse e attuali. Lo studio è stato realizzato prendendo in considerazione il territorio del Consorzio di Miglioramento Fondiario di Terlago. 
 1. È stata condotta un’analisi preliminare sulle metodologie di elaborazione dei dati satellitari utili per la stima delle variabili di interesse per l’ottimizzazione dell’irrigazione.
 
 
