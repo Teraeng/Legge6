@@ -11,7 +11,8 @@ Il sistema di irrigazione “BLUETENTACLES IRRIGATION SYSTEM” nasce da un prog
 
 \2) esigenza espressa dai Consorzi di Miglioramento Fondiario (CMF) di ottimizzare la gestione degli impianti irrigui a goccia esistenti senza prevedere la sostituzione integrale dell’impianto, ma intervenendo sulla configurazione della schedulazione irrigua. 
 <p align="center">
-  <img src="immagini/meteo.png" width="350" title="hover text">
+  <img src="immagini/meteo.png" width="500" title="Grafico temperatura">
+   <img src="immagini/satellitari.png" width="500" title="elaborazione immagini satellitari">
 </p>
 Ad oggi, infatti, è prevista una turnazione irrigua oraria che avviene grazie a sistemi di automazione che permettono l’apertura in automatico di idrovalvole di settore senza bisogno di intervento manuale da parte dell’operatore. La turnazione irrigua, decisa dal CMF ad inizio della stagione irrigua, viene però attuata sempre in maniera automatica senza considerare le condizioni meteo-climatiche e la reale necessità di irrigare.
 
