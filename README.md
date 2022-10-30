@@ -1,4 +1,4 @@
-||![C:\Users\admin\AppData\Local\Microsoft\Windows\INetCache\Content.Word\TeraGroup\_logo\_RGB.JPG](Aspose.Words.e05cab09-5564-4b11-b0e4-c6a1651e8c8d.001.jpeg "TeraGroup\_logo\_RGB")||
+
 | :-: | :-: | :-: |
 
 
