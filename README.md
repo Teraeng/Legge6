@@ -70,3 +70,5 @@ All’interno del repository è possibile scaricare i dati relativi a:
 - Elaborazioni delle immagini satellitari (NDVI e NDWI)
 - Raccolta dei dati delle stazioni meteorologiche utilizzate nella sperimentazione
 
+Il progetto è stato cofinanziato dalla Provincia Autonoma di Trento
+
